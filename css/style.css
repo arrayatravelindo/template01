@@ -6164,13 +6164,13 @@ button.bg-light:focus {
 }
 
 .bg-dark {
-  background-color: #a0a0a0 !important;
+  background-color: #212121 !important;
 }
 
 a.bg-dark:hover, a.bg-dark:focus,
 button.bg-dark:hover,
 button.bg-dark:focus {
-  background-color: #a0a0a0 !important;
+  background-color: #080808 !important;
 }
 
 .bg-white {
